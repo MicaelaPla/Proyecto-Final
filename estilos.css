@@ -24,6 +24,10 @@ h1, h2, h3 {
     font-family: 'Playfair Display';
 }
 
+.containerTotal{
+    width: 1250px;
+}
+
 /* Inicio */
 .container h1 {
     font-family: 'Clicker Script';
@@ -130,7 +134,7 @@ nav ul li a {
 }
 
 .container2 {
-    width: 1250px;
+    width: 100%;
     padding: 10px 200px;
     
 }
@@ -158,7 +162,7 @@ nav ul li a {
 
 /*PRODUCTOS*/
 .container0{
-    width: 1250px;
+    width: 100%;
     height: fit-content;
 }
 
@@ -270,7 +274,7 @@ article h2, article p {
 }
 
 .container3 {
-    width: 1263px;
+    width: 100%;
     height: 500px;
     background: url(img/Cafe2.jfif) no-repeat center;
     background-size: cover;
